@@ -1,2 +1,2 @@
 # TranslateEn-VN
-Translate English to Vietnamese
+App Andoird translate English to Vietnamese
